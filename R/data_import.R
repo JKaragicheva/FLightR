@@ -1,7 +1,7 @@
 #######################
 # here are the functions that read data
 
-
+#gfhgdd
 convert.lux.to.tags<-function(file, log=F, log.light.borders=c(1,10)) {
 	# the function takes the current (2015)
 	# .lux format and converts it to .csv format that
